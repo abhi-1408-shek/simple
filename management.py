@@ -1,4 +1,4 @@
-# Importing necessary modules
+# Importing necessary module(s)
 import os
 import json
 import datetime
